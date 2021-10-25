@@ -1,5 +1,5 @@
 ### Les démarches d’un algorithme de recherche harmonique
-n HSA, chaque solution est appelée « harmonie » et représentée par un vecteur 
+En HSA, chaque solution est appelée « harmonie » et représentée par un vecteur 
 réel à n dimensions. Une population initiale de vecteurs d'harmonie est générée 
 de manière aléatoire et stockée dans une mémoire d'harmonie (HM). Ensuite, 
 une nouvelle harmonie candidate est générée à partir de toutes les solutions du 
