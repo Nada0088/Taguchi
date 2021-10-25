@@ -30,6 +30,7 @@ généralement entre 70% et 99%.
 probabilité d'apporter quelque modification a un élément de la mémoire 
 d'harmonie avec PAR Î [0,1].
 
+```
 · Dénir la fonction objectif.
 
 ·  2 : Générer des harmonies initiales (des tableaux de nombres entiers).
@@ -63,3 +64,5 @@ d'harmonie avec PAR Î [0,1].
 ·    6.h : Trouver les meilleures solutions de l'itération courante.
 
 · Fin tant que.
+
+```
